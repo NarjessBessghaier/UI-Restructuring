@@ -9,7 +9,7 @@ The framework includes three modules:
 
 ##PADDING
 
-![alt text](https://raw.githubusercontent.com/NarjessBessghaier/UI-Restructuring/padH.png)
+![alt text](https://raw.githubusercontent.com/NarjessBessghaier/master/UI-Restructuring/padH.png)
 
 
 ![alt text](https://raw.githubusercontent.com/NarjessBessghaier/UI-Restructuring/padV.png)
