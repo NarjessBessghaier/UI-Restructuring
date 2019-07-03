@@ -9,6 +9,11 @@ The framework includes three modules:
 
 3- restructuring module: some automated restructuring practices for the re-positioning and re-dimensionig of graphical elements, while preserving a consistent padding between the elements. 
 
+## Framework
+
+![Screen Shot 2019-07-03 at 18 10 57](https://user-images.githubusercontent.com/11807316/60611359-0c774180-9dbe-11e9-99f5-b736102d38fc.png)
+
+
 
 ##PADDING
 
