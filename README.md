@@ -9,6 +9,12 @@ The framework includes three modules:
 
 ##PADDING
 
-
+![alt text](https://raw.githubusercontent.com/NarjessBessghaier/UI-Restructuring/padH.png)
+![alt text](https://raw.githubusercontent.com/NarjessBessghaier/UI-Restructuring/padV.png)
 
 ##MARGINS
+![alt text](https://raw.githubusercontent.com/NarjessBessghaier/UI-Restructuring/margins_process.png)
+![alt text](https://raw.githubusercontent.com/NarjessBessghaier/UI-Restructuring/MLD.png)
+![alt text](https://raw.githubusercontent.com/NarjessBessghaier/UI-Restructuring/MTD.png)
+![alt text](https://raw.githubusercontent.com/NarjessBessghaier/UI-Restructuring/MRD.png)
+![alt text](https://raw.githubusercontent.com/NarjessBessghaier/UI-Restructuring/MBD.png)
