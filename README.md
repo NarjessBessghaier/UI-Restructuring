@@ -1,6 +1,6 @@
 # UI-Restructuring
 A Java based framework for the automatic restructuring of structural Android user interface defects.
-A set of 13 google design material has been evaluated.
+A set of 13 google design material guidelines has been evaluated.
 The framework includes three modules:
 
 1- evaluation module: for the inspection of an MUI elements geometrical data, computation of 15 metrics and detection of structural defects
